@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnAQ9m41+CI=",
+  "success": true,
+  "projectFilePath": "/workspaces/CopilotApp/chat/chat.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/octokit/13.0.1/octokit.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
